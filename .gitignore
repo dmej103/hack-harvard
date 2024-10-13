@@ -1,0 +1,10 @@
+.env
+.DS_Store
+__pycache__/
+
+# Virtual Environment
+docgen-env/
+venv/
+env/
+.venv/
+*.venv
